@@ -192,7 +192,7 @@
 ## 🐍 My Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sudarsonbalu/SudarsonBalakrishnan/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/Sudarsonbalu/Sudarsonbalu/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
 ---

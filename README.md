@@ -97,18 +97,16 @@
   <table align="center">
     <tr>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=Sudarsonbalu&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=00F2FE&icon_color=00F2FE&text_color=c9d1d9&border_color=00F2FE&border_radius=10" height="195" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sudarsonbalu&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=00F2FE&icon_color=00F2FE&text_color=c9d1d9&border_color=00F2FE&border_radius=10" height="195" />
       </td>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudarsonbalu&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=00F2FE&icon_color=00F2FE&text_color=c9d1d9&border_color=00F2FE&border_radius=10" height="195" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sudarsonbalu&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=00F2FE&icon_color=00F2FE&text_color=c9d1d9&border_color=00F2FE&border_radius=10" height="195" />
       </td>
     </tr>
     <tr>
-      <td align="center" width="50%">
+      <td align="center" colspan="2">
+        <br>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sudarsonbalu&theme=tokyonight&background=0D1117&ring=00F2FE&fire=00F2FE&currStreakLabel=00F2FE&border=00F2FE&border_radius=10" height="195" />
-      </td>
-      <td align="center" width="50%">
-        <img src="https://github-profile-trophy.vercel.app/?username=Sudarsonbalu&theme=tokyonight&margin-w=15&margin-h=15&column=3" height="195" />
       </td>
     </tr>
   </table>
@@ -194,15 +192,19 @@
 ## 🐍 My Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sudarsonbalu/Sudarsonbalu/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/Sudarsonbalu/SudarsonBalakrishnan/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
 ---
 
-## 💬 Quote Section
+## 💬 Code Quote
 
 <p align="center">
-  <img src="https://github-readme-quotes.herokuapp.com/quote?theme=tokyonight&bg_color=0D1117&border_color=00F2FE&border_radius=10" alt="Programming Quote" />
+  <blockquote>
+    <p align="center">
+      <i>"The best way to predict the future is to invent it."</i> — <b>Alan Kay</b>
+    </p>
+  </blockquote>
 </p>
 
 ---
